@@ -1,4 +1,5 @@
 # 📊 Sales Data Analysis Dashboard
+![Dashboard](sales dashboard.png)
 
 ## 🔍 Project Overview
 This project focuses on analyzing sales data to generate meaningful business insights and support decision-making.
