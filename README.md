@@ -1,26 +1,67 @@
-# 📊 Sales Data Analysis Dashboard
-<img width="1329" height="647" alt="image" src="https://github.com/user-attachments/assets/8c5e568f-2f76-4178-8fa6-c5f466c79260" />
+# Sales Data Analysis Dashboard
 
+**Excel-based E-Commerce Sales Analysis | 51,290 Records**
 
-## 🔍 Project Overview
-This project focuses on analyzing sales data to generate meaningful business insights and support decision-making.
+## Project Overview
 
-## 🛠 Tools & Technologies
-- Excel
-- SQL
-- Data Analysis
-- Data Visualization
+This project analyzes an e-commerce sales dataset to explore sales and profit performance across time, regions, product categories, and products. The workbook includes a detailed **Sales Data** sheet and a **Working Sheet** containing formula-driven summary tables used for dashboard analysis.
 
-## 📈 Key Insights
-- Identified top-performing products
-- Analyzed monthly sales trends
-- Evaluated revenue growth
-- Improved reporting efficiency
+## Dataset
 
-## 📂 Project Files
-- Sales Dashboard (Excel)
-- Dataset
-- SQL Queries
+The workbook contains 51,290 sales records and 21 columns in the **Sales Data** sheet. Fields include:
 
-## 🎯 Objective
-To transform raw sales data into actionable insights using analytical techniques and dashboards.
+- Order ID, Order Date, Ship Date, and Aging
+- Ship Mode
+- Product Category and Product
+- Sales, Quantity, Discount, Profit, and Shipping Cost
+- Additional customer, location, and order attributes
+
+The **Working Sheet** contains Excel summary calculations for monthly sales and profit, regional sales, and product-category performance.
+
+## Tools & Techniques
+
+- Microsoft Excel
+- Excel formulas and structured table references (including SUMIFS)
+- Data analysis and aggregation
+- Dashboarding and data visualization
+
+## Analysis Areas
+
+- Monthly sales and profit trends
+- Regional sales performance
+- Product-category sales and profit
+- Product performance
+- Order and shipping attributes
+
+## Dashboard Preview
+
+![Sales Data Analysis Dashboard](sales%20dashboard.png)
+
+## Project Files
+
+| File | Description |
+|---|---|
+| `E-Commerce Dashboard dataset_Solved (2).xlsx` | Dataset and Excel working/summarization sheets |
+| `sales dashboard.png` | Dashboard screenshot |
+| `README.md` | Project documentation |
+
+## How to Explore
+
+1. Download the Excel workbook from this repository.
+2. Open it in Microsoft Excel.
+3. Review the **Sales Data** sheet for the transaction-level dataset.
+4. Review the **Working Sheet** for summary calculations and dashboard support.
+
+## Skills Demonstrated
+
+- Excel data analysis
+- Formula-based aggregation
+- Sales and profitability analysis
+- Time-based trend analysis
+- Regional and product analysis
+- Dashboard interpretation and business reporting
+
+## Author
+
+**Vikas Chaubey**  
+Data Analyst | MIS & Business Intelligence
